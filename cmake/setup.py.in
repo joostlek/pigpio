@@ -18,6 +18,7 @@ setup(name='pigpio',
       classifiers=[
          "Programming Language :: Python :: 2",
          "Programming Language :: Python :: 3",
+         "License :: OSI Approved :: The Unlicense (Unlicense)",
       ],
       package_dir={ '': '${CMAKE_CURRENT_SOURCE_DIR}'}
      )
